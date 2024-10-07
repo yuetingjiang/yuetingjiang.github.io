@@ -56,7 +56,7 @@ pre, tt {
 }
 
 a, a > tt {
-	color: black;
+	color: blue;
 	text-decoration: none;
 }
 
@@ -65,11 +65,11 @@ a:hover {
 }
 
 #layout-menu a.current:link, #layout-menu a.current:visited {
-	color: black;
+	color: rgb(71, 71, 71);
 	border-bottom: 1px gray solid;
 }
 #layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
-	color: black;
+	color: rgb(71, 71, 71);
 	text-decoration: none;
 }
 #layout-menu a:hover {
@@ -117,7 +117,7 @@ strong {
 
 
 h1, h2, h3 {
-	color: black;
+	color: #00008b;
 	margin-top: 0.7em;
 	margin-bottom: 0.3em;
 	padding-bottom: 0.2em;
@@ -354,7 +354,7 @@ table + table {
 
 tr.heading {
     font-weight: bold;
-    border-bottom: 2px solid black;
+    border-bottom: 2px solid 00008b;
 }
 
 img {
